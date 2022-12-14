@@ -1,0 +1,14 @@
+/* .nav2{
+    border-top: 5px solid white;
+} */
+.nav-2 ul li{
+    list-style: none;
+    padding: 0 10px;
+}
+.nav-2 ul li a{
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+  font-size: 12px;
+  font-weight: 700;
+}
