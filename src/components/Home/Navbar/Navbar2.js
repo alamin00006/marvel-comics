@@ -2,8 +2,8 @@ import React from 'react';
 import './Navbar2.css'
 const Navbar2 = () => {
     return (
-        <div className='nav-2 bg-dark py-1'>
-            <ul className='d-flex justify-content-center align-items-center mt-1'>
+        <div className='nav-2 bg-black py-1'>
+            <ul className='flex justify-center items-center mt-1'>
                 <li>
                     <a href='..'>NEW</a>
                 </li>

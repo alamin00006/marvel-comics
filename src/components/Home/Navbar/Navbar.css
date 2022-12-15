@@ -1,3 +1,6 @@
+.join-part{
+    z-index: 10;
+}
 .nav-1{
     border-bottom: 1px solid rgb(94, 94, 94);
 }
@@ -20,5 +23,8 @@
 .search-icon{
     width: 20px;
     
+}
+.modal-action{
+    left: 830px;
 }
 
